@@ -1,0 +1,32 @@
+.slider h3,
+.slider h5,
+    {
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, .8);
+}
+
+.parallax-container {
+    height: 350px;
+}
+
+.parallax img {
+    filter: grayscale(1);
+    opacity: .5 !important;
+}
+
+.clients img {
+    max-width: 250px;
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, .5));
+}
+
+section,
+footer {
+    padding: 20px;
+}
+
+.card-panel {
+    border-radius: 8px;
+}
+
+.portfolio img {
+    border-radius: 8px;
+}
